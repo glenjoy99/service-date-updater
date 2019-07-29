@@ -1,3 +1,7 @@
+//Author Glen Joy (www.glenjoy.com)
+//Mar Thoma Church of Greater Washington
+//Use example: marthomawashington.com
+
 var dayOne = new Date(); //first day of the month
 var today = new Date(); //today's date
 var comingSunday = new Date();
